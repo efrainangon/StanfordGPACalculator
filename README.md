@@ -1,6 +1,6 @@
 # Stanford GPA Calculator
 
-This is a simple Python script to calculate your current and potential GPA using Stanford's 4.3 scale. It supports retaken courses and shows GPA for both first and latest attempts per course.
+This is a simple Python script to calculate your current and potential GPA using Stanford's 4.3 scale. It supports retaken courses and shows GPA for both first and latest attempts per course. THIS CURRENTLY DOES NOT SUPPORT C/NC CLASSES AND I WILL MAKE A UI SOON.
 
 ## Features
 - Calculates GPA using first attempt and latest attempt for each course
